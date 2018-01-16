@@ -1,0 +1,42 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.main-title {
+  width: 50%;
+  text-align: right;
+  text-transform: uppercase;
+  padding-top: 50px;
+  padding-bottom: 15px;
+}
+
+.logo {
+  padding-top: 25px;
+  padding-left: 50px;
+}
+
+
+section {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.header-container {
+  display: flex;
+}
+
+.row {
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+/* h1, h4 {
+  padding: 5px;
+} */
+
+col {
+  margin: 10px;
+}
