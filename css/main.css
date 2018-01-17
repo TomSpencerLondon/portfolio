@@ -29,14 +29,6 @@ section {
   display: flex;
 }
 
-.row {
-  width: 100%;
-  flex-wrap: wrap;
-}
-
-/* h1, h4 {
-  padding: 5px;
-} */
 
 col {
   margin: 10px;
@@ -47,19 +39,21 @@ col {
   text-align: center;
 }
 
-/* .centerBlock {
-  display: table;
-  margin: auto;
-} */
-
 .pics {
   padding-left: 30px;
 }
 
-h2, h3 {
+h2,
+h3 {
   text-align: center;
 }
 
-h1, h4 {
+h1,
+h4 {
   text-align: right;
+}
+
+.icons {
+  font-size: 36px;
+  color: black;
 }
